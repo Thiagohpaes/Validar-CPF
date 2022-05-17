@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(199, 199, 196);
+}
+
+.jumbotron {
+  background-color: rgb(139, 180, 143);
+}
+
+
+header{
+  margin-right: 100px;
+ 
+  
+}
+header ul  li{
+  
+  
+  margin: 30px;
+  float: right;
+  font-size: 20px;
+  
+}
